@@ -11,7 +11,7 @@ acceptBtn.addEventListener('click', (e) => {
 
 
 $('.main-slider').slick({
-  // autoplay: true,
+  autoplay: true,
   autoplaySpeed: 8000,
   dots: true,
   arrows: true,
